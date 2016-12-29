@@ -4,5 +4,11 @@
   "keywords": [  
     "yii2",  
     "terrytest"  
-  ]
+  ],
+   "authors": [  
+    {  
+      "name": "stark",  
+      "email": "stark520@163.com"  
+    }  
+  ],  
   }
